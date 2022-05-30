@@ -1,3 +1,6 @@
 [submodule "nerf"]
 	path = nerf
 	url = https://github.com/bmild/nerf.git
+[submodule "mipnerf"]
+	path = mipnerf
+	url = https://github.com/google/mipnerf.git
