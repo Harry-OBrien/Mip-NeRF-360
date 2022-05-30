@@ -1,8 +1,6 @@
-# Notes
-*For myself during implementation... I'm new to NeRF*
-
+# mip-NeRF 360
 ## NeRF
-[NeRF paper](https://arxiv.org/pdf/2003.08934.pdf)**
+**[NeRF paper](https://arxiv.org/pdf/2003.08934.pdf)**
 * encodes the volumetric density and colour of a scene within the weights of a coordinate-based MLP (fully connected, no conv layers)
 * trace rays through each input image
 * sample points along each ray
