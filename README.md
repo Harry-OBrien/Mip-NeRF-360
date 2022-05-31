@@ -1,4 +1,7 @@
 # mip-NeRF 360
+**Work in Progress**
+See V0.1 branch for progress.
+
 ## NeRF
 **[NeRF paper](https://arxiv.org/pdf/2003.08934.pdf)**
 * encodes the volumetric density and colour of a scene within the weights of a coordinate-based MLP (fully connected, no conv layers)
