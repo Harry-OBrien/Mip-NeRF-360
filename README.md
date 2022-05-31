@@ -1,6 +1,5 @@
 # mip-NeRF 360
-**Work in Progress**
-See V0.1 branch for progress.
+*Work in Progress. See V0.1 branch for progress.*
 
 ## NeRF
 **[NeRF paper](https://arxiv.org/pdf/2003.08934.pdf)**
