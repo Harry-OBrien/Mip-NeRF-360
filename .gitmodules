@@ -4,3 +4,6 @@
 [submodule "mipnerf"]
 	path = mip_nerf
 	url = https://github.com/google/mipnerf.git
+[submodule "multinerf"]
+	path = multinerf
+	url = https://github.com/google-research/multinerf.git
